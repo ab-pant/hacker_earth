@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7effe676-f9f5-4769-8db8-01e4769c05b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functionDef.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newtonRaphson.py" afterPath="$PROJECT_DIR$/newtonRaphson.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sev_problem.py" />
     </list>
     <ignored path="Practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,11 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functionDef.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functionDef.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functionDef.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sev_problem.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sev_problem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6527051">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -120,6 +128,7 @@
         <option value="$PROJECT_DIR$/sumOfSequence.py" />
         <option value="$PROJECT_DIR$/newtonRaphson.py" />
         <option value="$PROJECT_DIR$/functionDef.py" />
+        <option value="$PROJECT_DIR$/sev_problem.py" />
       </list>
     </option>
   </component>
@@ -127,6 +136,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -153,7 +163,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,6 +183,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -182,24 +192,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.functionDef">
-    <configuration default="false" name="cubeRoot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cubeRoot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sev_problem">
     <configuration default="false" name="pwrAndRoot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,6 +257,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Practice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionDef.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sev_problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sev_problem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -391,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.cubeRoot" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pwrAndRoot" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sumOfSequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.newtonRaphson" />
-      <item index="4" class="java.lang.String" itemvalue="Python.functionDef" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pwrAndRoot" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sumOfSequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.newtonRaphson" />
+      <item index="3" class="java.lang.String" itemvalue="Python.functionDef" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sev_problem" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.functionDef" />
-        <item index="1" class="java.lang.String" itemvalue="Python.newtonRaphson" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sumOfSequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pwrAndRoot" />
-        <item index="4" class="java.lang.String" itemvalue="Python.cubeRoot" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sev_problem" />
+        <item index="1" class="java.lang.String" itemvalue="Python.functionDef" />
+        <item index="2" class="java.lang.String" itemvalue="Python.newtonRaphson" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sumOfSequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pwrAndRoot" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +431,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="1" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25813448" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -482,6 +492,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firstProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Finger_exercise2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cubeRoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwrAndRoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sumOfSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newtonRaphson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functionDef.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/firstProgram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -589,7 +655,15 @@
     <entry file="file://$PROJECT_DIR$/functionDef.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sev_problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6527051">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
