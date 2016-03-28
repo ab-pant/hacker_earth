@@ -1,7 +1,9 @@
 __author__ = 'abpant'
+import time
 
-inStr=str(raw_input("Enter the Demand string"));
-setSize=int(raw_input("Enter the number of sets"));
+
+inStr=str(raw_input());
+setSize=int(raw_input());
 listOfSequence=();
 
 def getPosition(flag_1,flag_2,wrkSeq,length):
@@ -31,7 +33,7 @@ def getPosition(flag_1,flag_2,wrkSeq,length):
     else:
         res.append(wrkSeq[1]);
 
-    print res;
+    #print res;
     return res;
 
 def actPos(x): return x-1;
@@ -42,24 +44,26 @@ for i in range(1,setSize+1):
     flag_1=0;
     flag_2=0;
 
-    listOfSequence=raw_input("Enter sequence "+str(i)+" : ");
+    listOfSequence=raw_input();
     mapped=map(int,listOfSequence.split(" "));
     wrkSeq=list(map(actPos,mapped));
-    print wrkSeq;
+    #print wrkSeq;
     length=len(inStr);
-    print "length:", length;
+    #print "length:", length;
 
     if wrkSeq[0]>=length:
         flag_1=1;
     if wrkSeq[1]>=length:
         flag_2=1;
-    print flag_1,flag_2;
+    #print flag_1,flag_2;
 
+    #start_time = time.time();
     positions=getPosition(flag_1,flag_2,wrkSeq,length);
-    print "Instr values are: ", inStr[positions[0]],inStr[positions[1]];
-    str1=inStr[positions[0]];
-    str2=inStr[positions[1]];
-    if str1==str2:
+    #print "--- %s seconds ---" , (time.time() - start_time);
+
+    #print "Instr values are: ", inStr[positions[0]],inStr[positions[1]];
+
+    if inStr[positions[0]]==inStr[positions[1]]:
         print "Yes";
     else:
         print "No";

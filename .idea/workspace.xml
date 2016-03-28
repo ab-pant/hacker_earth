@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7effe676-f9f5-4769-8db8-01e4769c05b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/girlfriendDemands.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sev_problem.py" afterPath="$PROJECT_DIR$/sev_problem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/girlfriendDemandsOptimized.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_gfDemand.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/girlfriendDemands.py" afterPath="$PROJECT_DIR$/girlfriendDemands.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Practice.iws" />
@@ -28,16 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="firstProgram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstProgram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Finger_exercise2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Finger_exercise2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,17 +93,37 @@
         <entry file="file://$PROJECT_DIR$/sev_problem.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="girlfriendDemands.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="girlfriendDemands.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/girlfriendDemands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5382003">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="girlfriendDemandsOptimized.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/girlfriendDemandsOptimized.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23089983">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_gfDemand.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_gfDemand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -142,6 +153,8 @@
         <option value="$PROJECT_DIR$/functionDef.py" />
         <option value="$PROJECT_DIR$/sev_problem.py" />
         <option value="$PROJECT_DIR$/girlfriendDemands.py" />
+        <option value="$PROJECT_DIR$/test_gfDemand.py" />
+        <option value="$PROJECT_DIR$/girlfriendDemandsOptimized.py" />
       </list>
     </option>
   </component>
@@ -206,41 +219,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.girlfriendDemands">
-    <configuration default="false" name="sumOfSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumOfSequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="newtonRaphson" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newtonRaphson.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.girlfriendDemandsOptimized">
     <configuration default="false" name="functionDef" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,6 +267,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Practice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/girlfriendDemands.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="girlfriendDemandsOptimized" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/girlfriendDemandsOptimized.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_gfDemand" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_gfDemand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -415,19 +428,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sumOfSequence" />
-      <item index="1" class="java.lang.String" itemvalue="Python.newtonRaphson" />
-      <item index="2" class="java.lang.String" itemvalue="Python.functionDef" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sev_problem" />
-      <item index="4" class="java.lang.String" itemvalue="Python.girlfriendDemands" />
+      <item index="0" class="java.lang.String" itemvalue="Python.functionDef" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sev_problem" />
+      <item index="2" class="java.lang.String" itemvalue="Python.girlfriendDemands" />
+      <item index="3" class="java.lang.String" itemvalue="Python.girlfriendDemandsOptimized" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_gfDemand" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.girlfriendDemands" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sev_problem" />
-        <item index="2" class="java.lang.String" itemvalue="Python.functionDef" />
-        <item index="3" class="java.lang.String" itemvalue="Python.newtonRaphson" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sumOfSequence" />
+        <item index="0" class="java.lang.String" itemvalue="Python.girlfriendDemandsOptimized" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_gfDemand" />
+        <item index="2" class="java.lang.String" itemvalue="Python.girlfriendDemands" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sev_problem" />
+        <item index="4" class="java.lang.String" itemvalue="Python.functionDef" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +514,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -674,18 +687,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sev_problem.py">
+    <entry file="file://$PROJECT_DIR$/girlfriendDemands.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/girlfriendDemands.py">
+    <entry file="file://$PROJECT_DIR$/sev_problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5382003">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_gfDemand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/girlfriendDemandsOptimized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23089983">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
           <folding />
         </state>
       </provider>
